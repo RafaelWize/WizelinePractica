@@ -3,3 +3,4 @@ s
 git show
 commit nuevo
 commit firmado
+commit verificado
