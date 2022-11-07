@@ -4,3 +4,4 @@ git show
 commit nuevo
 commit firmado
 commit verificado
+commit sin verificar
