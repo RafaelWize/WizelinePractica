@@ -5,3 +5,5 @@ commit nuevo
 commit firmado
 commit verificado
 commit sin verificar
+
+##changes for JR##
