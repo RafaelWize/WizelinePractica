@@ -1,17 +1,17 @@
 Nombre: 
 
-Color Favorito: 
+Color Favorito: Negro
 
-Palabra que inicie con R:
+Palabra que inicie con R: Rapido
 
-Pelicula de terror: 
+Pelicula de terror: Smile
 
-Comida mexicana favorita: 
+Comida mexicana favorita: Tacos
 
-Cancion que inicie con H:
+Cancion que inicie con H: Hotel California
 
-Lenguaje de programacion favorito:
+Lenguaje de programacion favorito: Swift 😍
 
-Bebida favorita: 
+Bebida favorita: Licuado de plátano
 
-Dia favorito de la semana: 
+Dia favorito de la semana: Viernes
