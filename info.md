@@ -2,7 +2,7 @@ Nombre: Alejandro vazquez
 
 Color Favorito: Negro azul
 
-Palabra que inicie con R: ronroneo
+Palabra que inicie con R: ronroneo raudo
 
 Pelicula de terror: Scream
 
