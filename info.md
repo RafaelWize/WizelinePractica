@@ -6,11 +6,11 @@ Palabra que inicie con R: ronroneo raudo
 
 Pelicula de terror: Scream aro
 
-Comida mexicana favorita: mexicana
+Comida mexicana favorita: mexicana italiana
 
-Cancion que inicie con H: hello
+Cancion que inicie con H: hello hello
 
-Lenguaje de programacion favorito: python
+Lenguaje de programacion favorito: python js
 
 Bebida favorita: pepsi
 
