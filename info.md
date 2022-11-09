@@ -14,4 +14,4 @@ Lenguaje de programacion favorito: Python
 
 Bebida favorita: Wine
 
-Dia favorito de la semana: 
+Dia favorito de la semana: Viernes
