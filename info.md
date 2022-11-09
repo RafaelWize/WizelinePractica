@@ -12,6 +12,6 @@ Cancion que inicie con H: hello hello
 
 Lenguaje de programacion favorito: python js
 
-Bebida favorita: pepsi
+Bebida favorita: pepsi coca
 
-Dia favorito de la semana: viernes
+Dia favorito de la semana: viernes sabado
