@@ -1,17 +1,17 @@
-Nombre: 
+Nombre: Raymundo Ledezma 
 
-Color Favorito: 
+Color Favorito: Azul
 
-Palabra que inicie con R:
+Palabra que inicie con R: Rayo
 
-Pelicula de terror: 
+Pelicula de terror: Actividad Paranormal
 
-Comida mexicana favorita: 
+Comida mexicana favorita:  Pozole
 
-Cancion que inicie con H:
+Cancion que inicie con H: Hasta que te conocí
 
-Lenguaje de programacion favorito:
+Lenguaje de programacion favorito: Python
 
-Bebida favorita: 
+Bebida favorita: Dr. Pepper
 
 Dia favorito de la semana: 
