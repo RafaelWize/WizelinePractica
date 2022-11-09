@@ -1,6 +1,6 @@
 Nombre: Alejandro vazquez
 
-Color Favorito: Negro
+Color Favorito: Negro azul
 
 Palabra que inicie con R: ronroneo
 
