@@ -1,10 +1,10 @@
-Nombre: 
+Nombre: Alejandro
 
-Color Favorito: 
+Color Favorito: Negro
 
-Palabra que inicie con R:
+Palabra que inicie con R: ronroneo
 
-Pelicula de terror: 
+Pelicula de terror: Scream
 
 Comida mexicana favorita: 
 
