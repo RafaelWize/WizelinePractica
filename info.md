@@ -6,12 +6,12 @@ Palabra que inicie con R: ronroneo
 
 Pelicula de terror: Scream
 
-Comida mexicana favorita: 
+Comida mexicana favorita: mexicana
 
-Cancion que inicie con H:
+Cancion que inicie con H: hello
 
-Lenguaje de programacion favorito:
+Lenguaje de programacion favorito: python
 
-Bebida favorita: 
+Bebida favorita: pepsi
 
-Dia favorito de la semana: 
+Dia favorito de la semana: viernes
