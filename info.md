@@ -1,17 +1,17 @@
-Nombre: 
+Nombre: Georgina Fraire Miranda 
 
-Color Favorito: 
+Color Favorito: Azul Turquesa
 
-Palabra que inicie con R:
+Palabra que inicie con R: Ramo
 
-Pelicula de terror: 
+Pelicula de terror: Scream
 
-Comida mexicana favorita: 
+Comida mexicana favorita: Tacos ❤️ 
 
-Cancion que inicie con H:
+Cancion que inicie con H: Hawai
 
-Lenguaje de programacion favorito:
+Lenguaje de programacion favorito: C# and JS
 
-Bebida favorita: 
+Bebida favorita: Agua Celis
 
-Dia favorito de la semana: 
+Dia favorito de la semana: Sabado
