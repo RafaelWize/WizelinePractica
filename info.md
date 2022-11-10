@@ -1,12 +1,12 @@
-Nombre: 
+Nombre: josue ruiz
 
-Color Favorito: 
+Color Favorito: rojo
 
-Palabra que inicie con R:
+Palabra que inicie con R: Rafa
 
 Pelicula de terror: 
 
-Comida mexicana favorita: 
+Comida mexicana favorita: pozole
 
 Cancion que inicie con H:
 
