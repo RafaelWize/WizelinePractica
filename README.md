@@ -1,4 +1,7 @@
 #sesiones de 7 Nov 2022
 
 
-### EDICION DE ALEJAVAZ
+# cambio nuevo que no conoce local
+# sincronizar desde remoto
+
+# cherry pick
