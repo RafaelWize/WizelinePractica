@@ -13,6 +13,4 @@ commit sin verificar
 # sincronizar desde remoto
 
 # cherry pick
-
-
-d00d238
+# commit cherry pick 2
