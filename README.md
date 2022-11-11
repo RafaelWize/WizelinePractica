@@ -10,3 +10,5 @@ commit sin verificar
 
 # cambio nuevo que no conoce local
 # sincronizar desde remoto
+
+# cherry pick
